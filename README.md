@@ -1,2 +1,14 @@
-## 基于zap的日志系统
-* 使用默认配置进行初始化
+## go-logger
+
+* auto config
+* easy using
+* based on zap
+
+## Use
+
+```
+    import "github.com/victzero/go-logger/log"
+
+
+```
+
