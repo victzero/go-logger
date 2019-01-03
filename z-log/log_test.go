@@ -1,4 +1,4 @@
-package log
+package z_log
 
 import "testing"
 

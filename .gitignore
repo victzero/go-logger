@@ -1,6 +1,6 @@
 .DS_Store
 
-# node
+# node project
 node_modules/
 dist/
 npm-debug.log*
@@ -33,7 +33,10 @@ server/npm-debug.log
 *.so
 *.dylib
 
+# go project
 vendor
+*.log
+main
 
 # Test binary, build with `go test -c`
 *.test
